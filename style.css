@@ -45,15 +45,36 @@ textarea{
 .past {
   background-color: gray;
 }
-.future {
-  background-color: rgb(84, 179, 84);
-}
+
 .present {
   background-color: #ffffff;
 }
 
+.future {
+  background-color: rgb(84, 179, 84);
+}
+
+.saveBtn {
+  border-left: 1px solid black;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background-color: #06AED5;
+  color: white;
+}
+
 .saveIT {
-  background-color: aqua;
+  background-color: rgb(192, 92, 92);
   align-self: center;
   margin-top: 25px;
+  box-shadow: 1px 1px 1px #bee2f9;
+
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  border: 2px solid #3866a3;
 }
+.saveBtn:hover {
+  font-size: 20px;
+  transition: all .3s ease-in-out;
+}
+
