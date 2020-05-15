@@ -42,4 +42,18 @@ textarea{
   border-top: 1px dashed #000000;
 }
 
+.past {
+  background-color: gray;
+}
+.future {
+  background-color: rgb(84, 179, 84);
+}
+.present {
+  background-color: #ffffff;
+}
 
+.saveIT {
+  background-color: aqua;
+  align-self: center;
+  margin-top: 25px;
+}
