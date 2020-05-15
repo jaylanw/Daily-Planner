@@ -5,4 +5,4 @@ You'll be able to set events to the hour. Once that event or hour has passed, th
 
 https://jaylanw.github.io/Daily-Planner/
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/jaylanw/Daily-Planner/blob/master/assets/Screen%20Shot%202020-05-15%20at%2012.54.07%20PM.png)
